@@ -1,3 +1,6 @@
+
+![human-file-system-banner-logo](https://user-images.githubusercontent.com/2808553/180306571-ac9cc741-6f34-4059-a814-6f8a72ed8322.png)
+
 # 🚀 The Human File System Collective Superteam DAO 🚀
 
 HumanFS DAO is a collective of separate HackFS teams cooperating to accelerating clinical discovery and reduce suffering. 
