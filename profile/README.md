@@ -1,11 +1,9 @@
 
 ![human-file-system-banner-logo](https://user-images.githubusercontent.com/2808553/180306571-ac9cc741-6f34-4059-a814-6f8a72ed8322.png)
 
-# 🚀 The Human File System Collective Superteam DAO 🚀
+# 🚀 The Human File System 🚀
 
-HumanFS DAO is a collective of separate HackFS teams cooperating to accelerating clinical discovery and reduce suffering. 
-
-Together, we are creating a set of interoperable software libraries that can be used independently to create user-accesss controlled digital twins on the blockchain.
+The Human File System (HumanFS) is a set of interoperable software libraries that can be used independently to create user-accesss controlled digital twins on the blockchain.
 The libaries can be used independently, but will all be included in the HumanFS SDK. 
 
 ## :sunglasses: [Human File System Software Development Kit](https://github.com/HumanFS/human-file-system-sdk) :sunglasses:
@@ -23,8 +21,6 @@ Then join us on [Discord](https://discord.gg/TCrQDsRF) so we can coordinate and 
 🤚 [Aragon DAO and Multisig](https://client.aragon.org/?#/humanfs/)
 
 💬 [Community on Discord](https://discord.gg/TCrQDsRF)
-
-🌎 [EthGlobal HackFS Project](https://ethglobal.com/showcase/human-file-system-mq03o)
 
 👨‍🏫 [Tasks on DeWork](https://app.dework.xyz/hackfs-dhealth-colle)
 
